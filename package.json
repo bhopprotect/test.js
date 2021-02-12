@@ -20,7 +20,7 @@
   "author": "Ashleigh Carr",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^11.3.2",
-    "randomcolor": "^0.5.4"
+    "discord.js": "^12.5.1",
+    "randomcolor": "^0.6.2"
   }
 }
