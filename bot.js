@@ -47,7 +47,7 @@ class Bot {
             for(var role of this.servers[server]) {
                 var liveRole = liveGuild.roles.cache.get(role);
                 
-                liveRole.setColor(randomColour(), "Rainbowbot random role color randomizer.");
+                liveRole.setColor(randomColour(), "Rainbowbot role");
             }
         }
     }

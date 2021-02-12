@@ -21,6 +21,10 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "randomcolor": "^0.6.2"
+    "randomcolor": "^0.6.2",
+    "node.js": "^0.0.0",
+    "node": "^15.7.0",
+    "discord.js-lavalink": "^3.0.1",
+    "python": "^0.0.4"
   }
 }
